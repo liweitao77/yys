@@ -1,0 +1,10 @@
+*{
+	margin: 0;
+}
+#jieshao li{
+	font-family: "微软雅黑";
+	line-height: 40px;
+}
+#jieshao ul{
+	margin-left: 600px;
+}
